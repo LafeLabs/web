@@ -1,4 +1,4 @@
-# [Web 1.0]
+# [Web 1.0](https://github.com/LafeLabs/web/blob/main/README.md)
 
 ## By [TRASH ROBOT](https://www.trashrobot.org)
 
@@ -11,4 +11,18 @@ Put images on a site like [imgur.com](https://imgur.com/) and drop them into ima
  - [magic.html](magic.html)
 
 ## Installation
+
+ - these instructions should be for dreamhost and bluehost 
+ - buy a domain 
+ - get a generic minimal web hosting account
+ - get the free certificate for https
+ - do whatever you have to do to get to the page to edit the files
+ - create a new file in the home web directory called replicator.php
+ - copy the code from [global replicator link](https://raw.githubusercontent.com/LafeLabs/web/main/php/replicator.txt) to replicator.php
+ - point browser to [your domain]/replicator.php
+ - point browser to [your domain]/magic.html to edit the scroll
+ - create a text file somewhere else on the Internet like [pastebin.com](https://pastebin.com/) and put that in the copy-from field, maintain the scroll there
+ - to replicate the scroll to the page, use the link on magic.html
+
+
 
