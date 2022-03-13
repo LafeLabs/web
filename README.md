@@ -9,6 +9,7 @@ See the code and copy the syntax.  The format of this document is called "[markd
 Put images on a site like [imgur.com](https://imgur.com/) and drop them into image links using ![]() syntax.
 
  - [magic.html](magic.html)
+ - [localhost/](http://localhost/)
 
 ## Installation
 
