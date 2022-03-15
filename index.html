@@ -12,12 +12,59 @@
         a{
             color:#ff2cb4;
         }
-        #scrollscroll{
+        .margin{
             position:absolute;
-            left:0px;
+            width:50px;
+            overflow:hidden;
             top:0px;
             bottom:0px;
+        }
+        .stripe{
+            height:20%;
+            width:100%;
+            border-width:0px;
+            position:absolute;
+            left:0px;
             right:0px;
+            z-index:-1;
+        }
+        .stripe1{
+            background-color:red;
+            top:0px;
+        }
+        .stripe2{
+            background-color:orange;
+            top:16%;
+        }
+        .stripe3{
+            background-color:yellow;
+            top:32%;
+        }
+        .stripe4{
+            background-color:green;
+            top:48%;
+        }
+        .stripe5{
+            background-color:blue;
+            top:64%;
+        }
+        .stripe6{
+            background-color:purple;
+            top:80%;
+        }
+
+        #leftmargin{
+            left:0px;
+        }
+        #rightmargin{
+            right:0px;
+        }
+        #scrollscroll{
+            position:absolute;
+            left:50px;
+            top:0px;
+            bottom:0px;
+            right:50px;
             padding:1em 1em 1em 1em;
             background-color:black;
             overflow:scroll;
@@ -28,7 +75,6 @@
         h1,h2,h3,h4{
             text-align:center;
         }
-        
         img{
             max-width:70%;
             display:block;
@@ -38,8 +84,27 @@
 
     </style>
 
+    <div id = "leftmargin" class = "margin">
+        <div class = "stripe stripe1"></div>
+        <div class = "stripe stripe2"></div>
+        <div class = "stripe stripe3"></div>
+        <div class = "stripe stripe4"></div>
+        <div class = "stripe stripe5"></div>
+        <div class = "stripe stripe6"></div>
+    </div>
+    <div id = "rightmargin" class = "margin">
+        <div class = "stripe stripe1"></div>
+        <div class = "stripe stripe2"></div>
+        <div class = "stripe stripe3"></div>
+        <div class = "stripe stripe4"></div>
+        <div class = "stripe stripe5"></div>
+        <div class = "stripe stripe6"></div>
+    </div>
 
     <div id = "scrollscroll">
+    </div>
+    <div id = "rightmargin" class = "margin">
+        
     </div>
 
 <script>
