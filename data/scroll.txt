@@ -1,10 +1,10 @@
 # Web 1.0
 
-
 ## [MAGIC](magic.html)
 
-![](https://i.imgur.com/No1wukK.png)
 
  - [www.trashrobot.org](https://www.trashrobot.org)
  - [github.com/LafeLabs/web](https://github.com/LafeLabs/web)
  - [github.com/LafeLabs/picrust](https://github.com/LafeLabs/picrust)
+
+![](https://i.imgur.com/No1wukK.png)
