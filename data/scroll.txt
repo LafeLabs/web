@@ -1,8 +1,8 @@
-# Web 1.0
+# [Web 1.0](https://github.com/LafeLabs/web)
 
 ## [MAGIC](magic.html)
 
-
+ - [http://localhost/](http://localhost/)
  - [www.trashrobot.org](https://www.trashrobot.org)
  - [github.com/LafeLabs/web](https://github.com/LafeLabs/web)
  - [github.com/LafeLabs/picrust](https://github.com/LafeLabs/picrust)

@@ -2,6 +2,7 @@
 
 ## By [TRASH ROBOT](https://www.trashrobot.org)
 
+[http://localhost/](http://localhost/)
 
 ![](https://i.imgur.com/Vm08kY6.png)
 
