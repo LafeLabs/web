@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+</head>
+<body>    
+<a href = "index.html">home</a>
+<textarea id = "textio"></textarea>
+<script>
+
+scroll = "";
+
+var httpc2 = new XMLHttpRequest();
+httpc2.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+        scroll = this.responseText;
+        document.getElementById("textio").value = scroll;
+    }
+};
+
+httpc2.open("GET", "fileloader.php?filename=data/scroll.txt", true);
+httpc2.send();
+
+
+document.getElementById("textio").onkeyup = function() {
+        scroll = this.value;
+        var httpc = new XMLHttpRequest();
+        var url = "filesaver.php";        
+        httpc.open("POST", url, true);
+        httpc.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;charset=utf-8");
+        httpc.send("data="+encodeURIComponent(scroll)+"&filename=data/scroll.txt");//send text to filesaver.php        
+    
+}
+
+
+
+
+</script>
+<style>
+body{
+    background-color:#808080;
+}
+h1{
+    text-align:center;
+}
+a{
+    font-size:2em;
+}
+a{
+    color:#ff2cb4;
+}
+
+canvas{
+    border:solid;
+    border-width:4px;
+    margin:1em 1em 1em 1em;
+}
+#textio{
+    background-color:black;
+    color:#00ff00;
+    font-family:courier;
+    position:absolute;
+    right:5%;
+    bottom:5%;
+    height:85%;
+    width:85%;
+    z-index:1;
+}
+#sourceurlinput{
+    width:20em;
+}
+</style>
+</body>
+</html>

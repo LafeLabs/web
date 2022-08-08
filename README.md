@@ -4,17 +4,6 @@
 
 ## [http://localhost/](http://localhost/)
 
-![](https://i.imgur.com/Vm08kY6.png)
-
-![](https://i.imgur.com/eoYFsqE.png)
-
-![](https://i.imgur.com/qt4CKOs.png)
-
-![](https://i.imgur.com/No1wukK.png)
-
-![](https://i.imgur.com/K0wc7jb.png)
-
-
 Welcome to Web 1.0. Just simple static web pages.  No users. No logins, no passwords, no encryption, no private data. This is a cardboard sign on the side of the road.  It is a chalk board in a hallway.  Spray paint on a dumpster.  Just simple messages of whatever we want to share with other people, spread out in the physical world.  To edit this document, use [the magic link magic.html](magic.html).
 
 See the code and copy the syntax.  The format of this document is called "[markdown](https://www.markdownguide.org/basic-syntax/)" and it is designed to be the simplest possible way to format a document using plain text.   
@@ -23,6 +12,7 @@ Put images on a site like [imgur.com](https://imgur.com/) and drop them into ima
 
  - [magic.html](magic.html)
  - [localhost/](http://localhost/)
+ - [PI CRUST self-replicating media platform](https://github.com/LafeLabs/picrust)
 
 ## Installation
 
@@ -42,15 +32,3 @@ Put images on a site like [imgur.com](https://imgur.com/) and drop them into ima
  - print clay coins which point to the domain using the TRASH ROBOT icon printer described in the [Book of Geometron on trashrobot.org](http://trashrobot.org/bookofgeometronfirst/)
  - spread the links to the page, and from the page to the servers
  
-
-![](https://i.imgur.com/b40uk3e.jpg)
-
-![](https://i.imgur.com/4GDKZtJ.jpg)
-
-![](https://i.imgur.com/kscBOoc.jpg)
-
-![](https://i.imgur.com/0HxorBX.jpg)
-
-![](https://i.imgur.com/vv6AYSw.png)
-
-![](https://i.imgur.com/ZPcUht4.jpg)

@@ -1,18 +1,13 @@
-# [Web 1.0](https://github.com/LafeLabs/web)
 
-## [MAGIC](magic.html)
+# [Web 1.0 Github Repository](https://github.com/LafeLabs/web)
+
+## [EDIT SCROLL](editscroll.html)
 
  - [http://localhost/](http://localhost/)
  - [www.trashrobot.org](https://www.trashrobot.org)
  - [github.com/LafeLabs/web](https://github.com/LafeLabs/web)
  - [github.com/LafeLabs/picrust](https://github.com/LafeLabs/picrust)
-
-![](https://i.imgur.com/Vm08kY6.png)
-
-![](https://i.imgur.com/eoYFsqE.png)
-
-![](https://i.imgur.com/qt4CKOs.png)
+ - [editor.php](editor.php)
 
 ![](https://i.imgur.com/No1wukK.png)
 
-![](https://i.imgur.com/K0wc7jb.png)
