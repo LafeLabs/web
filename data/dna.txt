@@ -2,21 +2,24 @@
     "html": [
         "README.md",
         "editscroll.html",
-        "index.html"
+        "fork.html",
+        "index.html",
+        "qrcode.html"
     ],
     "data": [
         "dna.txt",
-        "scroll.txt",
-        "sourceurl.txt"
+        "scroll.txt"
     ],
     "php": [
         "copy.txt",
+        "dir.txt",
         "dnagenerator.txt",
         "editor.txt",
         "fileloader.txt",
         "filesaver.txt",
+        "mkdir.txt",
+        "rdelete.txt",
         "replicator.txt",
-        "scrollreplicator.txt",
         "text2php.txt"
     ]
 }
