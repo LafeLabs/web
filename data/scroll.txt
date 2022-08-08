@@ -1,10 +1,11 @@
 # [Web 1.0 Github Repository](https://github.com/LafeLabs/web)
 
-
 ## [EDIT SCROLL](editscroll.html)
 
  - [http://localhost/](http://localhost/)
+ - [copy https://raw.githubusercontent.com/LafeLabs/web/main/data/scroll.txt](copy.php?from=https://raw.githubusercontent.com/LafeLabs/web/main/data/scroll.txt&to=data/scroll.txt)
  - [../](../)
+ - [global replicator link for web 1.0](https://raw.githubusercontent.com/LafeLabs/web/main/php/replicator.txt)
  - [Markdown Reference](https://www.markdownguide.org/basic-syntax/)
  - [www.trashrobot.org](https://www.trashrobot.org)
  - [github.com/LafeLabs/web](https://github.com/LafeLabs/web)
