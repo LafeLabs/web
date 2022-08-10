@@ -1,0 +1,13 @@
+# [www.maplelawn.net](https://www.maplelawn.net)
+
+## Street Network
+
+## Trash Magic
+
+ - [www.trashrobot.org](https://www.trashrobot.org/)
+ - [PI CRUST Github Repo](https://github.com/LafeLabs/picrust)
+ - [Web 1.0](https://github.com/LafeLabs/web)
+ - [editscroll.html](editscroll.html)
+ - [replicator.php](replicator.php)
+ - [global replicator link](https://raw.githubusercontent.com/LafeLabs/web/main/php/replicator.txt)
+ - [scrollreplicator.php](scrollreplicator.php)

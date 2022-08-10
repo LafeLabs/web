@@ -3,7 +3,7 @@
 ## [EDIT SCROLL](editscroll.html)
 
  - [southplatte/](southplatte/)
- - [www.southplatte.net]
+ - [www.southplatte.net](https://www.southplatte.net/)
  - [http://localhost/](http://localhost/)
  - [../](../)
  - [global replicator link for web 1.0](https://raw.githubusercontent.com/LafeLabs/web/main/php/replicator.txt)

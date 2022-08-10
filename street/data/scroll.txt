@@ -1,0 +1,9 @@
+# Street
+
+## [EDIT SCROLL](editscroll.html)
+
+ - [../](../)
+ - [global replicator link for web 1.0](https://raw.githubusercontent.com/LafeLabs/web/main/php/replicator.txt)
+ - [fork.html](fork.html)
+ - [maplelawn/](maplelawn/)
+
