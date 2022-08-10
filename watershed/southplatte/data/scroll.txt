@@ -1,13 +1,18 @@
 
-# [South Platte Web 1.0](https://github.com/LafeLabs/web)
+# [www.southplatte.net](https://www.southplatte.net/)
 
  - [edit scroll](editscroll.html)
+ - [Web 1.0 on Github](https://github.com/LafeLabs/web)
+ - [PI CRUST on Github](https://github.com/LafeLabs/picrust)
  - [South Platte River Wikipedia](https://en.wikipedia.org/wiki/South_Platte_River)
  - [Platte River Wikipedia](https://en.wikipedia.org/wiki/Platte_River)
  - [Confluence with North Platte, North Platte NE](https://en.wikipedia.org/wiki/North_Platte,_Nebraska)
  - [Missouri River](https://en.wikipedia.org/wiki/Missouri_River)
  - [editor.php](editor.php)
-
+ - [replicator.php](replicator.php)
+ - [qrcode.html](qrcode.html)
+ - [fork.html](fork.html)
+ - [cherrycreek/](cherrycreek/)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/96/Platterivermap.png)
 

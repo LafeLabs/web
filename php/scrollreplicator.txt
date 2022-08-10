@@ -10,7 +10,7 @@ copy($sourceurl,"data/scroll.txt");
 //add "data/scroll.txt" to the source url
 //copy the scroll to data/scroll.txt
 
-echo($sourceurl);
+//echo($sourceurl);
 
 ?>
 </pre>

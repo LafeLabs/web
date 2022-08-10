@@ -1,8 +1,7 @@
-# Watershed
+# [Web 1.0 Github Repository](https://github.com/LafeLabs/web)
 
 ## [EDIT SCROLL](editscroll.html)
 
- - [southplatte/](southplatte/)
  - [http://localhost/](http://localhost/)
  - [../](../)
  - [global replicator link for web 1.0](https://raw.githubusercontent.com/LafeLabs/web/main/php/replicator.txt)
@@ -12,7 +11,6 @@
  - [github.com/LafeLabs/picrust](https://github.com/LafeLabs/picrust)
  - [qrcode.html](qrcode.html)
  - [fork.html](fork.html)
- - [replicator.php](replicator.php)
  - [editor.php](editor.php)
 
 [![](https://raw.githubusercontent.com/LafeLabs/picrust/main/simplecube/uploadimages/replicator.jpg)](https://github.com/LafeLabs/picrust)

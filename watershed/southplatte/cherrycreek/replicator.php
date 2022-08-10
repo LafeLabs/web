@@ -26,12 +26,10 @@
 
     foreach($dna->data as $value){
         
-        if($value != "scrollurl.txt" && $value != "scroll.txt"){
-            //essentially just data/dna.txt
+        if($value != "scrollset.txt"){
             copy($baseurl."data/".$value,"data/".$value);
         }
         else{
-            //for both scroll and scrollurl add checks for if they exist and don't overwrite if they do
             if(!file_exists("data/".$value)){
                 copy($baseurl."data/".$value,"data/".$value);
             }
