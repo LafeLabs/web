@@ -1,16 +1,21 @@
 
 # [South Platte Web 1.0](https://github.com/LafeLabs/web)
 
-![](https://upload.wikimedia.org/wikipedia/commons/9/96/Platterivermap.png)
-![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Missouri_River_basin_map.png)
-![](https://upload.wikimedia.org/wikipedia/commons/0/07/Missouririverecoregions.jpg)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mississippiriver-new-01.png/1920px-Mississippiriver-new-01.png)
-
-
  - [edit scroll](editscroll.html)
  - [South Platte River Wikipedia](https://en.wikipedia.org/wiki/South_Platte_River)
  - [Platte River Wikipedia](https://en.wikipedia.org/wiki/Platte_River)
  - [Confluence with North Platte, North Platte NE](https://en.wikipedia.org/wiki/North_Platte,_Nebraska)
  - [Missouri River](https://en.wikipedia.org/wiki/Missouri_River)
- - []
+ - [editor.php](editor.php)
+
+
+![](https://upload.wikimedia.org/wikipedia/commons/9/96/Platterivermap.png)
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Missouri_River_basin_map.png)
+
+![](https://upload.wikimedia.org/wikipedia/commons/0/07/Missouririverecoregions.jpg)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mississippiriver-new-01.png/1920px-Mississippiriver-new-01.png)
+
+
 

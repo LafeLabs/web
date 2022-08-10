@@ -1,69 +1,47 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <script src = "https://cdnjs.cloudflare.com/ajax/libs/showdown/1.8.6/showdown.js"></script>
-    <!--Stop Google:-->
-    <META NAME="robots" CONTENT="noindex,nofollow">
-    <title>WEB 1.0</title>
-</head>
-<body>    
-    <div id = "scrollscroll">
-    </div>
-<script>
+<?php
 
-scroll = "";
-rawhtml = "";
-var converter = new showdown.Converter();
-// for more on options see here:
-// https://github.com/showdownjs/showdown/wiki/Showdown-Options
-converter.setOption('literalMidWordUnderscores', 'true');
-converter.setOption('tables', 'true')
-    
+// list files and or directories in a directory
 
-var httpc666 = new XMLHttpRequest();
-httpc666.onreadystatechange = function() {
-    if (this.readyState == 4 && this.status == 200) {
-        scroll = this.responseText;
-        rawhtml = converter.makeHtml(scroll);
-        document.getElementById("scrollscroll").innerHTML = rawhtml;
 
-    };
+if(isset($_GET["filename"])){
+    $filename = $_GET["filename"];//
+    $files = scandir(getcwd()."/".$filename);
 }
-httpc666.open("GET", "fileloader.php?filename=data/scroll.txt", true);
-httpc666.send();
+else{
+    $files = scandir(getcwd());
+}
 
-</script>
-    <style>
-        body{
-            color:#00ff00;
-        }
-        a{
-            color:#ff2cb4;
-        }
-        #scrollscroll{
-            position:absolute;
-            left:0px;
-            top:0px;
-            bottom:0px;
-            right:0px;
-            padding:1em 1em 1em 1em;
-            background-color:black;
-            overflow:scroll;
-            text-align:justify;
-            font-size:2em;
-    
-        }
-        h1,h2,h3,h4{
-            text-align:center;
-        }
-        img{
-            max-width:70%;
-            display:block;
-            margin:auto;
-            background-color:none;
-        }
 
-</style>
-</body>
-</html>
+if(isset($_GET["type"])){
+    if($_GET["type"] == "dir"){
+        $dirs = [];
+        foreach($files as $value){
+            if($value[0] != "." && is_dir($value) && $value != "php" && $value != "jscode" && $value != "data" && $value != "html" && $value != "symbols" && $value != "fonts" && $value != "icons" && $value != "iconsymbols" && $value != "uploadimages" && $value != "symbol" && $value != "symbolfeed" && $value != "maps" && $value != "scrolls"  && $value != "media" && $value != "images" && $value != "cards"){
+                array_push($dirs,$value);
+            }
+        }
+        echo json_encode($dirs);
+    }
+    else{
+        $ending = $_GET["type"];
+        $namelist = [];    
+        foreach($files as $value){
+            if(substr($value,-strlen($ending)) == $ending){
+                array_push($namelist,$value);
+            }
+        }    
+        echo json_encode($namelist);
+    }
+}
+else{
+    $dirs = [];
+    foreach($files as $value){
+        if($value[0] != "."){
+        array_push($dirs,$value);
+        }
+    }
+    echo json_encode($dirs);
+}
+
+
+?>
