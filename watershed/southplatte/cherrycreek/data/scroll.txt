@@ -1,18 +1,26 @@
-# [Web 1.0 Github Repository](https://github.com/LafeLabs/web)
 
-## [EDIT SCROLL](editscroll.html)
+# [www.southplatte.net](https://www.southplatte.net/)
 
- - [http://localhost/](http://localhost/)
- - [../](../)
- - [global replicator link for web 1.0](https://raw.githubusercontent.com/LafeLabs/web/main/php/replicator.txt)
- - [Markdown Reference](https://www.markdownguide.org/basic-syntax/)
- - [www.trashrobot.org](https://www.trashrobot.org)
- - [github.com/LafeLabs/web](https://github.com/LafeLabs/web)
- - [github.com/LafeLabs/picrust](https://github.com/LafeLabs/picrust)
+ - [edit scroll](editscroll.html)
+ - [Web 1.0 on Github](https://github.com/LafeLabs/web)
+ - [PI CRUST on Github](https://github.com/LafeLabs/picrust)
+ - [South Platte River Wikipedia](https://en.wikipedia.org/wiki/South_Platte_River)
+ - [Platte River Wikipedia](https://en.wikipedia.org/wiki/Platte_River)
+ - [Confluence with North Platte, North Platte NE](https://en.wikipedia.org/wiki/North_Platte,_Nebraska)
+ - [Missouri River](https://en.wikipedia.org/wiki/Missouri_River)
+ - [editor.php](editor.php)
+ - [replicator.php](replicator.php)
  - [qrcode.html](qrcode.html)
  - [fork.html](fork.html)
- - [editor.php](editor.php)
+ - [cherrycreek/](cherrycreek/)
 
-[![](https://raw.githubusercontent.com/LafeLabs/picrust/main/simplecube/uploadimages/replicator.jpg)](https://github.com/LafeLabs/picrust)
+![](https://upload.wikimedia.org/wikipedia/commons/9/96/Platterivermap.png)
 
-![](https://i.imgur.com/No1wukK.png)
+![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Missouri_River_basin_map.png)
+
+![](https://upload.wikimedia.org/wikipedia/commons/0/07/Missouririverecoregions.jpg)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mississippiriver-new-01.png/1920px-Mississippiriver-new-01.png)
+
+
+

@@ -5,12 +5,12 @@ $scrollurl = file_get_contents("data/scrollurl.txt");
 
 //if there is no / add one, but keep it if it already exists
 
-copy($sourceurl,"data/scroll.txt");
+copy($scrollurl,"data/scroll.txt");
 
 //add "data/scroll.txt" to the source url
 //copy the scroll to data/scroll.txt
 
-//echo($sourceurl);
+echo($scrollurl);
 
 ?>
 </pre>
