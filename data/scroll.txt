@@ -3,7 +3,6 @@
 ## [EDIT SCROLL](editscroll.html)
 
  - [http://localhost/](http://localhost/)
- - [copy https://raw.githubusercontent.com/LafeLabs/web/main/data/scroll.txt](copy.php?from=https://raw.githubusercontent.com/LafeLabs/web/main/data/scroll.txt&to=data/scroll.txt)
  - [../](../)
  - [global replicator link for web 1.0](https://raw.githubusercontent.com/LafeLabs/web/main/php/replicator.txt)
  - [Markdown Reference](https://www.markdownguide.org/basic-syntax/)

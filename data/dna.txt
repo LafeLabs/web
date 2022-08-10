@@ -8,7 +8,8 @@
     ],
     "data": [
         "dna.txt",
-        "scroll.txt"
+        "scroll.txt",
+        "scrollurl.txt"
     ],
     "php": [
         "copy.txt",
@@ -20,6 +21,7 @@
         "mkdir.txt",
         "rdelete.txt",
         "replicator.txt",
+        "scrollreplicator.txt",
         "text2php.txt"
     ]
 }

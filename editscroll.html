@@ -5,6 +5,17 @@
 </head>
 <body>    
 <a href = "index.html">home</a>
+<table id = "toptable">
+    <tr>
+        <td>SCROLL URL:</td>
+        <TD><input id ="scrollurlinput"/></TD>
+    </tr>
+    <tr>
+        <td></td>
+
+        <td><a href = "scrollreplicator.php">scrollreplicator.php</a></td>
+    </tr>
+</table>
 <textarea id = "textio"></textarea>
 <script>
 
@@ -34,6 +45,28 @@ document.getElementById("textio").onkeyup = function() {
 
 
 
+scrollurl = "";
+
+var httpc3 = new XMLHttpRequest();
+httpc3.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+        scrollurl = this.responseText;
+        document.getElementById("scrollurlinput").value = scrollurl;
+    }
+};
+
+httpc3.open("GET", "fileloader.php?filename=data/scrollurl.txt", true);
+httpc3.send();
+
+
+document.getElementById("scrollurlinput").onchange = function(){
+    scrollurl = this.value;
+    var httpc = new XMLHttpRequest();
+    var url = "filesaver.php";        
+    httpc.open("POST", url, true);
+    httpc.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;charset=utf-8");
+    httpc.send("data="+encodeURIComponent(scrollurl)+"&filename=data/scrollurl.txt");//send text to filesaver.php        
+}
 
 </script>
 <style>
@@ -48,6 +81,7 @@ a{
 }
 a{
     color:#ff2cb4;
+    background-color:black;
 }
 
 canvas{
@@ -66,8 +100,16 @@ canvas{
     width:85%;
     z-index:1;
 }
-#sourceurlinput{
-    width:20em;
+#toptable{
+ position:absolute;
+ right:0px;
+ top:0px;
+}
+#scrollurlinput{
+    width:30em;
+    background-color:black;
+    color:#00ff00;
+    font-family:courier;
 }
 </style>
 </body>
