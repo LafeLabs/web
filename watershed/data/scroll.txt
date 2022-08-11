@@ -1,5 +1,7 @@
 # Watershed
 
+The Watershed Network is the global network of waterways which connect the people of the world.  This includes the Oceans, Rivers, Lakes, Ponds, Streams, Canals, Gulches, Culverts, Swamps, Bogs, Bayous, Gulfs, Beaches, Fords, Bridges, Reservoirs, Dams, and any other bodies of water.  It is a social network of people who relate to each other via these water bodies.  It is fractal, with pages covering entire vast oceans and pages covering a single foot bridge or culvert or storm sewer grate.  Pages are created using [Web 1.0](https://github.com/LafeLabs/web).
+
 ## [EDIT SCROLL](editscroll.html)
 
  - [southplatte/](southplatte/)
