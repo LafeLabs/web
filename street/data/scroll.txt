@@ -1,9 +1,12 @@
 # Street
 
+Streets, roads, sidewalks, paths, highways, rest stops, gas stations, libraries, parks, truck stops, street corners, bus stops, train stations, freight terminals, railroad yards...
+
 ## [EDIT SCROLL](editscroll.html)
 
  - [../](../)
  - [global replicator link for web 1.0](https://raw.githubusercontent.com/LafeLabs/web/main/php/replicator.txt)
  - [fork.html](fork.html)
  - [maplelawn/](maplelawn/)
-
+ - [kstreet/](kstreet/)
+ - [dupontcircle/](dupontcircle/)
