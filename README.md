@@ -13,6 +13,7 @@ Put images on a site like [imgur.com](https://imgur.com/) and drop them into ima
  - [global replicator link](https://raw.githubusercontent.com/LafeLabs/web/main/php/replicator.txt)
  - [localhost/](http://localhost/)
  - [PI CRUST self-replicating media platform](https://github.com/LafeLabs/picrust)
+ - [Watershed Network](watershed/)
 
 ## Installation
 
