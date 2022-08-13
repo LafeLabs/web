@@ -14,6 +14,7 @@ Put images on a site like [imgur.com](https://imgur.com/) and drop them into ima
  - [localhost/](http://localhost/)
  - [PI CRUST self-replicating media platform](https://github.com/LafeLabs/picrust)
  - [Watershed Network](watershed/)
+ - [Street Network](street/)
 
 ## Installation
 
