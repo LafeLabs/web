@@ -1,30 +1,10 @@
 # [Web 1.0 Github Repository](https://github.com/LafeLabs/web)
 
-Web 1.0 consists of self-replicating web pages which link to physical spaces and networks. 
-
-## The Watershed Network
-
-The Watershed Network is the global network of waterways which connect the people of the world.  This includes the Oceans, Rivers, Lakes, Ponds, Streams, Canals, Gulches, Culverts, Swamps, Bogs, Bayous, Gulfs, Beaches, Fords, Bridges, Reservoirs, Dams, and any other bodies of water.  It is a social network of people who relate to each other via these water bodies.  It is fractal, with pages covering entire vast oceans and pages covering a single foot bridge or culvert or storm sewer grate.  Pages are created using [Web 1.0](https://github.com/LafeLabs/web).
-
-We will build a global network connecting *all* bodies of water.  We will build both *documents* which connect to all the water, and *infrastructure* which connects devices up in spaces around that water.  This starts with a few web pages and local web servers, but we will eventually build a network of free wireless hot spots which are linked across *all* the waterways of the world.  Every coast of every ocean and every bank of every river will be connected by overlapping free, off grid wireless mesh networks.  If we can build this using free hardware we source from waste streams of the global consumer system, we can eventually overtake the Internet as the dominant global information network.  
-
-The Watershed Network is one side of the global Trash Magic Media network, the other side of which is the Street Network.
-
- - [www.southplatte.net](https://www.southplatte.net)
-
-## The Street Network.
-
-The Street Network is like the Watershed Network but for built spaces.  We create a network of places in which we can share the elements of Trash Magic.  These are along streets, roads, sidewalks, paths, highways, rest stops, gas stations, libraries, parks, truck stops, street corners, bus stops, train stations, freight terminals, railroad yards, park-n-ride lots, parking garages, bridges, tunnels, plazas, strip malls, or any other physical object or space related to moving people and things around in physical space. 
-
-
- - [www.maplelawn.net](https://www.maplelawn.net)
- - [www.southbroadway.net](https://www.southbroadway.net)
- - [www.kstreet.xyz](https://www.kstreet.xyz)
- - [www.us29.xyz](https://www.us29.xyz)
- - [www.usroute1.xyz](https://www.usroute1.xyz)
+# Dry Gulch.  
 
 
 ## [EDIT SCROLL](editscroll.html)
+
 
  - [http://localhost/](http://localhost/)
  - [../](../)
