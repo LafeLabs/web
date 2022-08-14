@@ -1,7 +1,9 @@
 # Trash Robot Web 1.0 Page
 
-## [link to pi crust on local wifi](http://10.0.0.7)
 
+ - [link to pi crust on local wifi at 10.0.0.7](http://10.0.0.7)
  - [../](../)
  - [editscroll.html](editscroll.html)
+ - [scrollreplicator.php](scrollreplicator.php)
+ - [qrcode.html](qrcode.html)
  - [fork.html](fork.html)
