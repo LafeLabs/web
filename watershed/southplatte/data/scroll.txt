@@ -7,6 +7,8 @@ The Trash Magic Network will build free media infrastructure up and down all the
  
 The South Platte River will be the heart of TRASHCON as well, in 2023.  On the week of May 20, 2023(TRASHCON 1) we are calling all interested parties to converge on the Denver Metro area and exchange media as a decentralized swarm, building out this network in Denver and then expanding it to the rest of the world.  We aim to build free infrastructure which benefits all stake holders along all waterways: individuals, businesses, towns, ecosystems, communities.  Using the Network to transmit media content which captures peoples attention(music, art, culture, news, stories, classified ads, podcasts, and so on) will create enough energy to support the Network via sponsors. 
 
+ - [lakewoodgulch/](lakewoodgulch/)
+ - [lakewoodgulch/trashrobot/](lakewoodgulch/trashrobot/)
  - [editscroll.html](editscroll.html)
  - [TRASH ROBOT web page](https://www.trashrobot.org)
  - [Web 1.0 on Github](https://github.com/LafeLabs/web)

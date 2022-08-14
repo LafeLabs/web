@@ -1,3 +1,7 @@
 # Trash Robot Web 1.0 Page
 
 ## [link to pi crust on local wifi](http://10.0.0.7)
+
+ - [../](../)
+ - [editscroll.html](editscroll.html)
+ - [fork.html](fork.html)

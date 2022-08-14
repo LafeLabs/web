@@ -4,8 +4,9 @@
 
 ## [EDIT SCROLL](editscroll.html)
 
- - [http://localhost/](http://localhost/)
  - [../](../)
+ - [trashrobot/](trashrobot/)
+ - [http://localhost/](http://localhost/)
  - [global replicator link for web 1.0](https://raw.githubusercontent.com/LafeLabs/web/main/php/replicator.txt)
  - [Markdown Reference](https://www.markdownguide.org/basic-syntax/)
  - [www.trashrobot.org](https://www.trashrobot.org)
